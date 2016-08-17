@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: wangcpsnow
 ---
 
 ## 个人信息
@@ -11,4 +11,4 @@ title: Hello World
 * 工作经验： 4年
 * [我的博客](http://woshuone.com)
 
-## [走你](http://woshuone.com)
+## [传送门](http://woshuone.com)
